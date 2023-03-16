@@ -23,4 +23,9 @@ contacts:
       - email: ytss@moe.edu.sg
       - other: ""
     title: General Enquiries & Feedback
+  - content:
+      - phone: ""
+      - email: corpcomm@ytss.edu.sg
+      - other: ""
+    title: Prospective Parents & Students
 ---
