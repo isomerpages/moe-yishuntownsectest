@@ -27,5 +27,5 @@ sections:
       subtitle: Subtitle
       description: About a sentence worth of description here
       button: Button text
-      url: /faq/
+      url: https://issuu.com/citynews/docs/230323_citynews
 ---
