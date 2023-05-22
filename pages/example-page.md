@@ -24,9 +24,9 @@ permalink: /example-page/
 
 ```  
 {  
-&nbsp;&nbsp;"firstName": "John",  
-&nbsp;&nbsp;"lastName": "Smith",  
-&nbsp;&nbsp;"age": 25  
+		"firstName": "John",  
+		"lastName": "Smith",  
+		"age": 25  
 }  
 ```
 
@@ -35,9 +35,9 @@ permalink: /example-page/
 ||
 
 
-- [x\] Write the press release  
-- [ \] Update the website  
-- [ \] Contact the media
+- [x] Write the press release  
+- [ ] Update the website  
+- [ ] Contact the media
 
 ||
 | -------- | 
@@ -109,6 +109,7 @@ X<sup>2</sup>
 
 
 &gt; blockquote
+
 
 ||
 | -------- | 
