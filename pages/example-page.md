@@ -7,6 +7,16 @@ permalink: /example-page/
 | Text     | Text     | Text     |
 
 
+||
+| -------- | 
+||
+
+
+| Syntax      | Description | Test Text     |
+| :---        |    :----:   |          ---: |
+| Header      | Title       | Here's this   |
+| Left Align | Centre | Right Align |
+
 
 ||
 | -------- | 
@@ -89,6 +99,9 @@ X<sup>2</sup>
 **bold text**
 
 *italicized text*
+
+|  Pipe
+
 
 ||
 | -------- | 
