@@ -2,6 +2,10 @@
 title: Example Page
 permalink: /example-page/
 ---
+[E-Open Day 2023 Slides](https://drive.google.com/drive/folders/1qYf4We9WMiv5-1P0Gn53uwpe9RXkjp8d?usp=sharing)
+
+
+
 | Column 1 | Column 2 | Column 3 |
 | -------- | -------- | -------- |
 | Text     | Text     | Text     |
